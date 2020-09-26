@@ -2,8 +2,8 @@
 ### [AppleDaily20200907](https://hk.appledaily.com/finance/20200907/4IMTXY2FXNFMJJYTEREBFCMTDE/)
 
 
-### Example of Sentiment Search Results using Business and Political Keywards
-| 關鍵詞 | 情緒平均值 | 關鍵詞 | 情緒平均值 |
+### Example of Sentiment Search Results using Business and Political Keywords
+| 關鍵詞<br>Keyword| 情緒平均值<br>Sentiment | 關鍵詞<br>Keyword | 情緒平均值<br>Sentiment |
 |-------|-----------|-------|------------|
 | AAPL | +0.174 | Donald Trump |+0.057|
 | MSFT | +0.218 |Joe Biden |+0.072
